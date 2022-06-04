@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_seo_seo_informations",
+  "info": {
+    "displayName": "SeoInformation",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "SEOTitle": {
+      "type": "string"
+    },
+    "SEODescription": {
+      "type": "text"
+    }
+  }
+}
